@@ -18,6 +18,8 @@ public class Fichero1 {
 			opcion=read.nextInt();
 
 		} while (opcion!=0);
+
+		System.out.println("Adiós");
 		
 	}
 	
