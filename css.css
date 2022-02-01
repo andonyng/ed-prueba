@@ -1,0 +1,14 @@
+h1 {
+	animation:colorSwitch 1s infinite;
+}
+
+@keyframes colorSwitch {
+
+	50% {
+		color:blue;
+	}
+	
+	100% {
+		color:aquamarine;
+	}
+}
