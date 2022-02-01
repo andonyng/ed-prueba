@@ -19,6 +19,8 @@ public class Fichero1 {
 
 		} while (opcion!=0);
 
+		read.close();
+
 		System.out.println("Adiós");
 		
 	}
